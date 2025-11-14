@@ -1,4 +1,7 @@
 # CNN-catsVSdogs-
+
+The goal of this project is to develop a Convolutional Neural Network (CNN) model that can classify images of cats and dogs. This is a classical deep learning project that introduces concepts of convolution, pooling, activation functions, and transfer learning.
+
 # Dataset Information
 
 The training archive contains 25,000 images of dogs and cats. Train your algorithm on these files and predict the labels
